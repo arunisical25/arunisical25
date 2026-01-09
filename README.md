@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Data Sciencce & AI Enthusiast | Problem Solver
+### 🚀 Data Science & AI Enthusiast | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arunava-phadikar-9ab1001a5)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/arunavaphadikar)
@@ -10,7 +10,15 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arunavaphadikar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arunavaphadikar?label=Followers&style=for-the-badge&color=success" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Following-0-blue?style=for-the-badge" alt="Following" />
+</p>
+
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 ## 🌟 About Me
 
@@ -50,7 +58,7 @@ NLTK • SpaCy • Gensim • SentencePiece • Tokenizers • Datasets
 
 ### Data Visualization
 ```
-Matplotlib • Seaborn • Plotly • Bokeh • Streamlit • Gradio
+Matplotlib • Seaborn • Plotly • Bokeh • Streamlit 
 ```
 
 ### Ensemble Methods
@@ -60,7 +68,7 @@ XGBoost • LightGBM • CatBoost • Random Forest • AdaBoost
 
 ### Parameter-Efficient Fine-tuning
 ```
-LoRA • AdaLoRA • Bayesian LoRA • QLoRA • Prefix-Tuning • P-Tuning v2
+LoRA • AdaLoRA • Bayesian LoRA • QLoRA 
 ```
 
 ### 🤖 Large Language Models
