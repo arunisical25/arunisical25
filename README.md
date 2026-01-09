@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arunavaphadikar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arunavaphadikar?label=Followers&style=for-the-badge&color=success" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Following-0-blue?style=for-the-badge" alt="Following" />
 </p>
 
