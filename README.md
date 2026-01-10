@@ -33,54 +33,96 @@ My journey began with Mechanical Engineering, but my curiosity led me to the fas
 
 ---
 
-## 🛠️ Technical Arsenal
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-Basic-276DC3?style=flat&logo=r&logoColor=white)
+<div align="center">
 
-### ML/DL Frameworks & Libraries
+### 💻 Languages & Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🤖 ML/DL Frameworks
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🧠 Advanced AI/ML
+
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 📊 Data Visualization & Tools
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### 🚀 Specialized Techniques
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Parameter-Efficient Fine-Tuning**
 ```
-NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Keras • JAX 
+LoRA • AdaLoRA • Bayesian LoRA
+QLoRA • Prefix-Tuning • P-Tuning v2
 ```
 
-### Deep Learning Ecosystem
+</td>
+<td align="center" width="50%">
+
+**Ensemble Methods**
 ```
-Transformers • Diffusers • Accelerate • PEFT • BitsAndBytes • AutoGPTQ 
+XGBoost • LightGBM • CatBoost
+Random Forest • AdaBoost
 ```
 
-### Natural Language Processing
-```
-NLTK • SpaCy • Gensim • SentencePiece • Tokenizers • Datasets
+</td>
+</tr>
+</table>
+
+### 🤖 Large Language Models Expertise
+
+<details>
+<summary><b>Click to expand LLM Arsenal</b></summary>
+<br>
+
+```yaml
+Transformer Models:
+  - BERT, RoBERTa, DistilBERT, ALBERT
+  - GPT-2, GPT-3, GPT-4
+  - T5, BART, PEGASUS
+  
+Open Source LLMs:
+  - LLaMA, LLaMA-2, Mistral, Falcon
+  - DeepSeek, Qwen, ChatGLM
+  - TinyLlama, Phi-1.5/2/3, Gemma
+  
+Multilingual & Regional:
+  - BanglaBERT, IndicBERT, XLM-RoBERTa
+  - Sarvam-1, MuRIL
+
+Vision-Language Models:
+  - CLIP, SigLip, ViLT
+  - BLIP, BLIP-2, LLaVA
+  - InstructBLIP, Flamingo, MiniGPT-4
+  - LXMERT
 ```
 
-### Data Visualization
-```
-Matplotlib • Seaborn • Plotly • Bokeh • Streamlit 
-```
+</details>
 
-### Ensemble Methods
-```
-XGBoost • LightGBM • CatBoost • Random Forest • AdaBoost
-```
-
-### Parameter-Efficient Fine-tuning
-```
-LoRA • AdaLoRA • Bayesian LoRA • QLoRA 
-```
-
-### 🤖 Large Language Models
-```
-BERT • RoBERTa • GPT-2/3/4 • T5 • DistilBERT • Falcon • LLaMA/LLaMA-2 
-Mistral • BART • DeepSeek • TinyLlama • Phi-1.5/2/3 • Gemma • Qwen 
-ChatGLM • BanglaBERT • IndicBERT • XLM-RoBERTa •Sarvam-1
-```
-
-### 👁️ Vision-Language Models
-```
-CLIP • ViLT • LXMERT • BLIP • BLIP-2 • LLaVA • MiniGPT-4 • InstructBLIP • Flamingo • SigLip
-```
+</div>
 
 ---
 
