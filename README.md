@@ -164,7 +164,7 @@ Comprehensive medical AI application comparing traditional ML vs. deep learning 
 
 Medical AI application for automated brain tumor detection with multi-algorithm comparison.
 
-- 🎯 **95.2% accuracy** with SVM
+- 🎯 **96.5% accuracy** with SVM
 - 📈 **0.98 AUC-ROC score**
 - 🏥 Radiological diagnosis support
 
