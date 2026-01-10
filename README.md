@@ -212,6 +212,6 @@ I'm always excited to collaborate on interesting projects, discuss data science,
 
 Made with ❤️ and lots of ☕ by Arunava Phadikar
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=arunisical25&color=blueviolet&style=flat-square)
 
 </div>
