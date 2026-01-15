@@ -203,7 +203,6 @@ I'm always excited to collaborate on interesting projects, discuss data science,
 
 - 📧 **Email**: [arunavaphadikar@gmail.com](mailto:arunavaphadikar@gmail.com)
 - 💼 **LinkedIn**: [Arunava Phadikar](https://www.linkedin.com/in/arunava-phadikar-9ab1001a5)
-- 🏆 **Kaggle**: [@arunavaphadikar](https://www.kaggle.com/arunavaphadikar)
 
 ---
 
