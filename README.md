@@ -26,8 +26,8 @@ Welcome to my digital space! I'm passionate about transforming data into meaning
 
 My journey began with Mechanical Engineering, but my curiosity led me to the fascinating world of data science. I believe that every dataset tells a story, and I'm here to help uncover those stories and turn them into actionable insights that can change the world, one algorithm at a time.
 
-- 🎓 M.Tech in Quality, Reliability and Operation Research @ **Indian Statistical Institute, Kolkata** (2023-2025)
-- 🔧 B.Tech in Mechanical Engineering @ **IIEST Shibpur** (2019-2023)
+- 🎓 M.Tech in Quality, Reliability and Operation Research @ **Indian Statistical Institute, Kolkata** (2026)
+- 🔧 B.Tech in Mechanical Engineering @ **IIEST Shibpur**(2023)
 - 💼 Former Data Science Intern @ **IIT Kanpur** (June-August 2024)
 - 🌱 M.Tech Thesis on **Multimodal Multi-Task Bengali Hate Speech Detection using LoRA**
 - 💡 Exploring advanced **Parameter-Efficient Fine-tuning** techniques
@@ -130,7 +130,7 @@ Vision-Language Models:
 ## 🚀 Featured Projects
 
 ### 🌟 Multimodal Multi-Task Bengali Hate Speech Detection using LoRA
-**M.Tech Final Year Project | January 2025 – July 2025**  
+**M.Tech Final Year Project |   
 *Supervised by Prof. Tanmay Sen, ISI Kolkata*
 
 Developing a cutting-edge multimodal hate speech detection system for Bengali language using Bayesian LoRA with vision-language transformers. Creating a safer digital space for Bengali-speaking communities.
@@ -139,7 +139,7 @@ Developing a cutting-edge multimodal hate speech detection system for Bengali la
 ---
 
 ### 💬 YouTube Comments Sentiment Analysis Using PEFT Method
-**February - March 2025**
+
 
 Built an advanced sentiment analysis system leveraging parameter-efficient fine-tuning to classify YouTube comments with minimal computational resources.
 
@@ -150,7 +150,7 @@ Built an advanced sentiment analysis system leveraging parameter-efficient fine-
 ---
 
 ### 🏥 Advanced Skin Cancer Classification Using Deep Neural Networks
-**December 2024**
+
 
 Comprehensive medical AI application comparing traditional ML vs. deep learning for melanoma detection.
 
@@ -161,7 +161,7 @@ Comprehensive medical AI application comparing traditional ML vs. deep learning 
 ---
 
 ### 🧠 Brain Tumor Classification with Multi-Algorithm Comparison 
-**April 2024**
+
 
 Medical AI application for automated brain tumor detection with multi-algorithm comparison.
 
