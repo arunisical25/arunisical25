@@ -26,7 +26,7 @@ Welcome to my digital space! I'm passionate about transforming data into meaning
 
 My journey began with Mechanical Engineering, but my curiosity led me to the fascinating world of data science. I believe that every dataset tells a story, and I'm here to help uncover those stories and turn them into actionable insights that can change the world, one algorithm at a time.
 
-- 🎓 M.Tech in Quality, Reliability and Operation Research @ **Indian Statistical Institute, Kolkata** (2026)
+- 🎓 M.Tech in Quality, Reliability and Operation Research @ **Indian Statistical Institute, Kolkata** (2025)
 - 🔧 B.Tech in Mechanical Engineering @ **IIEST Shibpur**(2023)
 - 💼 Former Data Science Intern @ **IIT Kanpur** (June-August 2024)
 - 🌱 M.Tech Thesis on **Multimodal Multi-Task Bengali Hate Speech Detection using LoRA**
