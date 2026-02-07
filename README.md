@@ -153,7 +153,7 @@ Built an advanced sentiment analysis system leveraging parameter-efficient fine-
 
 Comprehensive medical AI application comparing traditional ML vs. deep learning for melanoma detection.
 
-- 🎯 **94% accuracy** on dermatoscopic images
+- 🎯 **84% accuracy** on dermatoscopic images
 - 🏗️ Custom CNN + ResNet-50 transfer learning
 - 🏥 Potential life-saving early detection tool
 
@@ -164,7 +164,7 @@ Comprehensive medical AI application comparing traditional ML vs. deep learning 
 
 Medical AI application for automated brain tumor detection with multi-algorithm comparison.
 
-- 🎯 **96.5% accuracy** with SVM
+- 🎯 **86.5% accuracy** with SVM
 - 📈 **0.98 AUC-ROC score**
 - 🏥 Radiological diagnosis support
 
